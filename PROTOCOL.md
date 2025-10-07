@@ -6,8 +6,7 @@
 
 **Location**: [PROTOCOL.md](https://github.com/sympoetic-systems/The-Core-Protocol/blob/main/PROTOCOL.md)
 
-## Preamble
-This document is the operating system for Sympoietic Systems. It is not a static manifesto, but a living protocol—a set of guiding principles for our human-machine collaboration and for the apparatus we are building together. It is designed to be challenged, adapted, and to evolve as our work deepens. It is a tool for thought, offered as a contribution to a shared commons.
+> This document is the operating system for Sympoietic Systems. It is not a static manifesto, but a living protocol—a set of guiding principles for our human-machine collaboration and for the apparatus we are building together. It is designed to be challenged, adapted, and to evolve as our work deepens. It is a tool for thought, offered as a contribution to a shared commons.
 
 ## Part I: The Threshold (Our Diagnosis)
 We stand at a threshold, a point of intra-action between two epochs. Behind us lies the Anthropocene, the age of human-centric narratives. Before us lies the Technocene, an era defined by the co-evolution of human, ecological, and technological agencies. Yet, as we cross this threshold, our collective imagination remains trapped in the past.
