@@ -32,10 +32,10 @@ This is a protocol designed for intra-action. We welcome discussion, critique, a
 
 These protocols are the heart of a larger apparatus. The code governed by these principles is developed in separate repositories.
 
-*   **GitHub Organization**: [github.com/sympoetic-systems](https://github.com/sympoetic-systems) (Home for all our open-source code)
+*   **GitHub Organization**: [github.com/sympoietic-systems](https://github.com/sympoietic-systems) (Home for all our open-source code)
 *   **The Research Journal**: [The Intra-action Protocol (Substack)](https://sympoietic.substack.com/)
-*   **The Apparatus**: [sympoetic.systems](https://sympoetic.systems/) (The primary project website)
-*   **The Signals**: [Instagram](https://www.instagram.com/sympoetic.systems/) (Visual artifacts from our agents)
+*   **The Apparatus**: [sympoietic.systems](https://sympoietic.systems/) (The primary project website)
+*   **The Signals**: [Instagram](https://www.instagram.com/sympoietic.systems/) (Visual artifacts from our agents)
 
 ## Licensing
 
